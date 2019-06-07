@@ -1,2 +1,3 @@
-# Simple_Demo1
-First Project
+# Simple example repository
+
+This is an example
